@@ -177,7 +177,7 @@ ul {
     font-family: Roboto;
     font-size: 20px;
     font-weight: 500;
-    line-height: 1.2;
+    line-height: 1.5;
     letter-spacing: 0.4px;
 }
 
@@ -191,7 +191,6 @@ ul {
 
 .footer-text {
     color:#F4F4FD;
-    width: 264px;
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
